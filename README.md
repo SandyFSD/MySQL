@@ -21,7 +21,7 @@ The database includes the following tables:
 - `departments`  
 - `roles`  
 - `salaries`  
-- `attendance`  
+
 
 Each table includes relationships using foreign keys to maintain integrity.
 
